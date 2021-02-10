@@ -85,3 +85,16 @@ a:hover {
       width: 300px;
     }
 }
+
+.btn {
+  color: white;
+  background-color:rgb(43, 41, 112);
+  padding: 10px;
+  border-radius: 5px;
+  line-height: 50px;
+}
+
+.btn:hover {
+  text-decoration: none;
+  color:rgb(126, 122, 226);
+}
